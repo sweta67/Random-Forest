@@ -11,11 +11,11 @@ In a business, a random forest algorithm could be used in a scenario where there
 
 # Benefits of Random Forest
 
-# No Overfitting
+## No Overfitting
 As long as there are enough trees in the forest, there is little to no risk of overfitting. Decision trees can also end up overfitting. Random forests prevent that by building different sized trees from subsets and combining the results.
 
-# Highly Accurate
+## Highly Accurate
 Using a number of trees with significant differences between the subgroups makes random forests a highly accurate prediction tool.
 
-# Quick Training Speed
+## Quick Training Speed
 Because random forests use a subset of features, they can quickly assess hundreds of different features. This means that prediction speed is faster than other models too, as generated forests can be saved and re-used in the future.
